@@ -1,0 +1,5 @@
+#summary Release notes for Squires.
+
+= Introduction =
+
+These are the notable changes in each release, in inverse chronological order.
