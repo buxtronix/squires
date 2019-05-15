@@ -1,7 +1,5 @@
+# Squires 
 Squires is a Python library to assist in the building of powerful
 readline based command line interfaces.
 
-Homepage: https://github.com/google/squires
-
 See example.py for sample code.
-
